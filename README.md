@@ -23,3 +23,5 @@ Set overlay / final image to output
 Image processing complete, please see results at: /path/result.png
 ```
 
+### See more info at [bio-cell-outline](https://conorheffron.github.io/bio-cell-red-edge/bio-cell-outline.pdf)
+
