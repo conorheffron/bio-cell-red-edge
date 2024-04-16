@@ -1,3 +1,5 @@
+![Proof HTML](https://github.com/conorheffron/bio-cell-red-edge/actions/workflows/proof-html.yml/badge.svg)
+
 ## bio-cell-red-edge
 
 ### Sample Edge Detection Script which produces the following result `.png` file.
