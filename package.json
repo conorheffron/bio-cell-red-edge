@@ -1,0 +1,8 @@
+{
+  "name": "bio-cell-red-edge",
+  "version": "1.2.0",
+  "description": "Biological Cell - Image Processing Script",
+  "dependencies": {
+    "@primer/css": "17.0.1"
+  }
+}
