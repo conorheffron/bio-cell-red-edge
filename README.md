@@ -1,6 +1,8 @@
-![Proof HTML](https://github.com/conorheffron/bio-cell-red-edge/actions/workflows/proof-html.yml/badge.svg)
+# bio-cell-red-edge
 
-## bio-cell-red-edge
+[![Python application](https://github.com/conorheffron/bio-cell-red-edge/actions/workflows/python-app.yml/badge.svg)](https://github.com/conorheffron/bio-cell-red-edge/actions/workflows/python-app.yml)
+
+![Proof HTML](https://github.com/conorheffron/bio-cell-red-edge/actions/workflows/proof-html.yml/badge.svg)
 
 ### Sample Edge Detection Script which produces the following result `.png` file.
 
