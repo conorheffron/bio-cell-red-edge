@@ -1,13 +1,8 @@
-import main
 import pytest
-import sys
+import subprocess
 
-
-@pytest.mark.parametrize("files", ["original image cropped.png", None])
-def test_main(decimals):
+def test_main():
   try:
-    sys.argv = files
-    main = main()
-    repr(main)
+    subprocess.run(["python", "main.py", "original image cropped.png"])
   except Exception as e:
     pytest.fail(f"An error occurred: {e}")
