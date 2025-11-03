@@ -82,8 +82,6 @@ My aim was to visualise the segmentation of the cells image.
 
 ### View from VS Code IDE:
 -	Note: Depending on python 3 installation, you may need to run package installer (pip) to install `skimage` package:
-o	python3.11 -m pip install --upgrade pip
-o	python3 -m pip install scikit-image
+ - `python3.11 -m pip install --upgrade pip`
+ - `python3 -m pip install scikit-image`
 
- 
-<img width="451" height="593" alt="image" src="https://github.com/user-attachments/assets/0a0a7015-4fd4-4388-835d-e3bfa554e7ca" />
