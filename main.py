@@ -1,3 +1,4 @@
+from datetime import datetime
 import skimage as ski
 import matplotlib.pyplot as plt
 from scipy import ndimage as ndi
@@ -40,10 +41,11 @@ class BioCellRedEdgeDetection:
         axes[3, 0].set_title('7. Dilate Image')
         print("Set overlay / final image to output")
         axes[3, 1].imshow(overlay, cmap=plt.cm.gray)
-        axes[3, 1].set_title('8. Overlay Original Image with Segmented Cells From Dilated Image')
+        axes[3, 1].set_title('8. Overlay Original Image with \n Segmented Cells From Dilated Image')
 
         plt.tight_layout()
-        output_file_name = 'result.png'
+        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        output_file_name = f"output/result_{timestamp}.png"
         plt.savefig(output_file_name)
         print("Image processing complete, please see results at: %s" % os.path.join(os.getcwd(), output_file_name))
         plt.show()
