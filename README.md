@@ -8,7 +8,7 @@
 
 ### Original Image (before crop)
 
-![Original Image for Testing](./CellSegmentationExample_01.png)
+![Original Image for Testing](./doc/CellSegmentationExample_01.png)
 
 ### Sample Edge Detection Script which produces the following result `.png` file.
 
