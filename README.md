@@ -78,7 +78,9 @@ My aim was to visualise the segmentation of the cells image.
 ### Reference:
  - 1994-2023 The MathWorks, Inc. “Detect Cell Using Edge Detection and Morphology
 ”
- - Accessed: November 29, 2023. Available:   - https://www.mathworks.com/help/images/detecting-a-cell-using-image-segmentation.html 
+ - Accessed: November 29, 2023.
+ - Available:
+   - https://www.mathworks.com/help/images/detecting-a-cell-using-image-segmentation.html 
 
 ### View from PyCharm IDE:
 -	Note: The resulting image is saved as ‘result.png’ in working directory.
