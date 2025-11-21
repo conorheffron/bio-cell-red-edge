@@ -80,7 +80,7 @@ My aim was to visualise the segmentation of the cells image.
 ”
  - Accessed: November 29, 2023.
  - Available:
-   - https://www.mathworks.com/help/images/detecting-a-cell-using-image-segmentation.html 
+   - [https://www.mathworks.com/help/images/detecting-a-cell-using-image-segmentation.html](https://www.mathworks.com/help/images/detecting-a-cell-using-image-segmentation.html)
 
 ### View from PyCharm IDE:
 -	Note: The resulting image is saved as ‘result.png’ in working directory.
