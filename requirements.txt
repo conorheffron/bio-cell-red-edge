@@ -6,5 +6,5 @@ pluggy==1.6.0
 pytest==9.0.2
 requests==2.32.5
 scikit-image==0.26.0
-Send2Trash==1.8.3
+Send2Trash==2.0.0
 setuptools==80.9.0
