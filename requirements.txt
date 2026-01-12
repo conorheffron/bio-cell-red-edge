@@ -1,5 +1,5 @@
 matplotlib==3.10.8
-numpy==2.4.0
+numpy==2.4.1
 pandas==2.3.3
 plotly==6.5.0
 pluggy==1.6.0
