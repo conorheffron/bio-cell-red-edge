@@ -4,7 +4,7 @@ pandas==3.0.1
 plotly==6.6.0
 pluggy==1.6.0
 pytest==9.0.2
-requests==2.33.0
+requests==2.33.1
 scikit-image==0.26.0
 Send2Trash==2.1.0
 setuptools==82.0.1
