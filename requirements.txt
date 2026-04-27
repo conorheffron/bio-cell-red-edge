@@ -1,4 +1,4 @@
-matplotlib==3.10.8
+matplotlib==3.10.9
 numpy==2.4.4
 pandas==3.0.2
 plotly==6.6.0
