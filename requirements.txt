@@ -3,7 +3,7 @@ numpy==2.4.6
 pandas==3.0.3
 plotly==6.8.0
 pluggy==1.6.0
-pytest==9.1.0
+pytest==9.1.1
 requests==2.34.2
 scikit-image==0.26.0
 Send2Trash==2.1.0
