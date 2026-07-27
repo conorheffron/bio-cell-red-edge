@@ -1,6 +1,6 @@
 matplotlib==3.11.1
 numpy==2.5.1
-pandas==3.0.4
+pandas==3.0.5
 plotly==6.9.0
 pluggy==1.6.0
 pytest==9.1.1
